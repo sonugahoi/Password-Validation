@@ -5,7 +5,9 @@
 CV POINTS -
 
 •	Developed sign up, log in and forget password features by importing pickle and random module
+
 •	Implemented principle of Object-Oriented Programming in python using class and constructor
+
 •	Users are asked security questions after more than three trials for resetting the password
 
 
