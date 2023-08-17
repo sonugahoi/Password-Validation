@@ -1,5 +1,3 @@
-# Project 4 : Password Validation
-
 
 from user import User
 import pickle
